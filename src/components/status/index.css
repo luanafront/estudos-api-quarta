@@ -1,0 +1,14 @@
+.alive {
+    width: 1.0rem;
+    height: 1.0rem;
+    background-color: #0f0;
+    display: inline-block;
+    border-radius: 2.0rem;
+}
+.death {
+    width: 1.0rem;
+    height: 1.0rem;
+    background-color: #f00;
+    display: inline-block;
+    border-radius: 2.0rem;
+}
