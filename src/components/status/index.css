@@ -1,7 +1,7 @@
 .alive {
     width: 1.0rem;
     height: 1.0rem;
-    background-color: #0f0;
+    background-color: rgba(0, 255, 0, 0.787);
     display: inline-block;
     border-radius: 2.1rem;
 }
